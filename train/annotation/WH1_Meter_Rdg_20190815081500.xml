@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>WH1_Meter_Rdg_20190815081500.jpg</filename>
+	<path>C:\Users\Admin\Desktop\images\WH1_Meter_Rdg_20190815081500.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3280</width>
+		<height>2464</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>meter_box</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>889</xmin>
+			<ymin>1150</ymin>
+			<xmax>2119</xmax>
+			<ymax>1540</ymax>
+		</bndbox>
+	</object>
+</annotation>
